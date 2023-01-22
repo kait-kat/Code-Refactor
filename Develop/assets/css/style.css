@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/*This is the base background color of the website*/
+
 body {
     background-color: #d9dcd6;
 }
+
+/*This header is consists of the top banner and navigation bar */
 
 .header {
     padding: 20px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/*This is the hero image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +74,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/*These are the css attributes for the content of the aside*/
 
 .content {
     width: 75%;
@@ -116,6 +124,8 @@ p {
     text-align: center;
 }
 
+/*The images pertaining to each article in the aside*/
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,6 +143,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*These pertain to the section above the aside*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +173,8 @@ p {
     color: #ffffff;
 }
 
+/*Images for the section*/
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +186,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/*Headers for the section*/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -187,6 +203,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*The closing footer to the page*/
 
 .footer {
     padding: 30px;
