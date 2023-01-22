@@ -24,3 +24,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+![homework-mockup](https://user-images.githubusercontent.com/112601209/213902148-625f302e-4731-40c3-b4fc-c2242184952f.png)
