@@ -17,7 +17,7 @@ SO THAT I can better understand how everything works
 
 ```md
 
-GIVEN 
+GIVEN a front end webpage
 WHEN I view the code
 THEN I see clear definition of the purpose of each part
 WHEN I look at the HTML
