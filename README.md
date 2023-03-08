@@ -1,30 +1,33 @@
-# Code-Refactor - Challenge 1
+# Code-Refactor
+
+## Description
+
+This code has been refactored to meet a certain set of standards without changing the functionality of everything. The purpose is to be able to practice defining semantic elements and identify the use of everything in the code. This is more difficult than you'd expect, many elements are not as easily discernable and sometimes can be mistaken for other elements or made to look different.
 
 ## User Story
 
 ```md
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+
+AS A studen
+I WANT to better understand the functionality of the code I am given
+SO THAT I can better understand how everything works
 ```
 
 ## Acceptance Criteria
 
 ```md
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 
-![homework-mockup](https://user-images.githubusercontent.com/112601209/213902148-625f302e-4731-40c3-b4fc-c2242184952f.png)
+GIVEN 
+WHEN I view the code
+THEN I see clear definition of the purpose of each part
+WHEN I look at the HTML
+THEN I can easily identify the placement of elements
+WHEN I look at the CSS attributes
+THEN I can tell which belongs to which element
+```
+![code refactor ss](https://user-images.githubusercontent.com/112601209/223593087-9d42563d-c718-4fa9-a59d-b73f9f614f1b.jpg)
+
+![code refactor ss2](https://user-images.githubusercontent.com/112601209/223593114-23b5b341-ce65-4539-8080-8240bbda8b3f.jpg)
 
 ---
 permalink: /index.html
