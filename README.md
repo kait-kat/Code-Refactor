@@ -8,7 +8,7 @@ This code has been refactored to meet a certain set of standards without changin
 
 ```md
 
-AS A studen
+AS A student
 I WANT to better understand the functionality of the code I am given
 SO THAT I can better understand how everything works
 ```
